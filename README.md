@@ -31,19 +31,21 @@ Flow:
 
 ## Project Structure
 
+```
 terraform-chat-app/
-
-main.tf  
-variables.tf  
-outputs.tf  
-
-modules/  
-apigateway/  
-dynamodb/  
-lambda/  
-iam/  
-
-chat.html  
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+│
+├── modules/
+│   ├── apigateway/
+│   ├── dynamodb/
+│   ├── lambda/
+│   └── iam/
+│
+├── chat.html
+```
 
 ---
 
