@@ -1,10 +1,10 @@
-## Terraform Realtime Messaging System
+## Terraform Realtime Messaging System 💬
 
-Serverless realtime messaging system built using AWS API Gateway WebSocket, Lambda, DynamoDB, and Terraform. Supports bidirectional communication and real time message broadcasting between connected clients. Uses event driven architecture with fully managed AWS services for scalability and reliability. Infrastructure is provisioned using Terraform following modular and reusable design.
+Serverless realtime messaging system built using AWS API Gateway WebSocket, AWS Lambda, DynamoDB, and Terraform. Supports bidirectional communication and real time message broadcasting between connected clients. Uses event driven architecture with fully managed AWS services for scalability and reliability. Infrastructure is provisioned using Terraform with a modular and reusable design.
 
 ---
 
-## Architecture
+## Architecture 🏗️
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fc66cfbf-4ce1-45dc-a223-560c7279a9cc" />
 
 Flow:
@@ -19,7 +19,7 @@ Flow:
 
 ---
 
-## Tech Stack
+## Tech Stack ⚙️
 
 - AWS API Gateway WebSocket  
 - AWS Lambda  
@@ -29,7 +29,7 @@ Flow:
 
 ---
 
-## Project Structure
+## Project Structure 📁
 
 ```
 terraform-chat-app/
@@ -49,7 +49,7 @@ terraform-chat-app/
 
 ---
 
-## Step by Step Setup
+## Step by Step Setup 🚀
 
 ### Step 1. Create project
 
@@ -148,7 +148,7 @@ http://localhost:5500/chat.html
 
 ---
 
-## Features
+## Features ✨
 
 - Realtime messaging using WebSocket  
 - Serverless architecture  
@@ -157,7 +157,7 @@ http://localhost:5500/chat.html
 
 ---
 
-## Use Cases
+## Use Cases 🎯
 
 - Chat applications  
 - Notification systems  
