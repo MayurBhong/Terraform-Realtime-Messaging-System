@@ -5,7 +5,7 @@ Serverless realtime messaging system built using AWS API Gateway WebSocket, AWS 
 ---
 
 ## Architecture 🏗️
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fc66cfbf-4ce1-45dc-a223-560c7279a9cc" />
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/a7363cd6-e0b9-4ee0-8266-665c38f66d56" />
 
 Flow:
 
